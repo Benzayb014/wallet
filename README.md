@@ -1,4 +1,4 @@
-> There is a new BitPay wallet at https://github.com/bitpay/bitpay-app. This repository and wallet versions <=12 are *no longer actively being maintained*.
+> This repository and wallet versions <=12 are *no longer actively being maintained*. Check out the new BitPay wallet at https://github.com/bitpay/bitpay-app.
 
 <img src="https://github.com/bitpay/wallet/blob/master/resources/bitpay/windows/icon/Wide310x150Logo.scale-100.png" alt="Bitpay Wallet">
 
