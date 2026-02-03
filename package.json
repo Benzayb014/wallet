@@ -1,6 +1,6 @@
 {
   "name": "copay",
-  "description": "A Secure Bitcoin Wallet",
+  "description": "A Popular Cryptocurrency Wallet",
   "author": "BitPay",
   "version": "12.12.2",
   "keywords": [
@@ -21,14 +21,14 @@
   },
   "dom_storage_quota": 200,
   "id": "jid1-x7bV5evAaI1P9Q",
-  "homepage": "https://copay.io",
+  "homepage": "https://bitpay.com/wallet",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/bitpay/copay.git",
+    "url": "git://github.com/bitpay/wallet.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/copay/issues"
+    "url": "https://github.com/bitpay/wallet/issues"
   },
   "scripts": {
     "postinstall": "npm run env:dev && npm run prompt && npm run patch:all",

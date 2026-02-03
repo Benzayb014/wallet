@@ -1,3 +1,5 @@
+> There is a new BitPay wallet at https://github.com/bitpay/bitpay-app. This repository and wallet versions <=12 are *no longer actively being maintained*.
+
 <img src="https://github.com/bitpay/wallet/blob/master/resources/bitpay/windows/icon/Wide310x150Logo.scale-100.png" alt="Bitpay Wallet">
 
 [![CircleCI](https://img.shields.io/circleci/project/github/bitpay/wallet/master.svg)](https://circleci.com/gh/bitpay/wallet/)
@@ -6,7 +8,7 @@
 
 **PLEASE NOTE WE HAVE DETECTED SOME FAKE COPAY WALLETS ON THE GOOGLE PLAY STORE FOR ANDROID, PLEASE BE SURE TO INSTALL "BITPAY WALLET" ONLY FROM THE APP STORES. APP's DEVELOPER SHOULD BE "BITPAY INC" ONLY**
 
-Bitpay Wallet (formerly Copay) is a secure Bitcoin, Bitcoin Cash, Ethereum and ERC20 wallet platform for both desktop and mobile devices. Bitpay Wallet uses [Bitcore Wallet Service](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet-service) (BWS) for peer synchronization and network interfacing.
+Bitpay Wallet (formerly Copay) is a Bitcoin, Bitcoin Cash, Ethereum and ERC20 wallet platform for both desktop and mobile devices. Bitpay Wallet uses [Bitcore Wallet Service](https://github.com/bitpay/bitcore/tree/master/packages/bitcore-wallet-service) (BWS) for peer synchronization and network interfacing.
 
 Binary versions of Bitpay Wallet are available for download at:
 https://bitpay.com/wallet/
@@ -17,13 +19,13 @@ This project was created by BitPay Inc, and it is maintained by BitPay and hundr
 
 - Bitcoin, Ethereum, Bitcoin Cash and XRP support
 - Multiple wallet creation (BTC, BCH and ETH) and management in-app
-- Intuitive, multisignature security for personal or shared wallets
+- Intuitive, multisignature capabilities for personal or shared wallets
 - Easy spending proposal flow for shared wallets and group payments
 - [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) Hierarchical deterministic (HD) address generation and wallet backups
 - Device-based security: all private keys are stored locally, not in the cloud
 - Support testnet wallets for all supported coins.
 - Synchronous access across all major mobile and desktop platforms
-- Payment protocol (BIP70-BIP73) support: easily-identifiable payment requests and verifiable, secure bitcoin payments
+- Payment protocol (BIP70-BIP73) support: easily-identifiable payment requests and verifiable bitcoin payments
 - Support for over 150 currency pricing options and unit denomination in BTC
 - Mnemonic (BIP39) support for wallet backups
 - Paper wallet sweep support (BIP38)
